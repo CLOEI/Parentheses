@@ -42,7 +42,7 @@ const SecondDialog = () => {
           </Link>
           <Link href="/benaya">
             <DialogClose asChild>
-              <Button className="block mx-auto w-full" disabled>
+              <Button className="block mx-auto w-full">
                 Benaya Jakob Kerubim - 2331096
               </Button>
             </DialogClose>
